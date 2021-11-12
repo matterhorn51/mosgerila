@@ -1,0 +1,37 @@
+/*******************************TAG SELECTORS**********************************/
+body {
+  background-color: black;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: red;
+}
+p {
+  color: red;
+}
+h2 {
+  color: red;
+}
+
+/********************************CLASS SELECTORS*******************************/
+.prima-imagine {
+  background-color: transparent;
+  text-align: center;
+  display: inline-block;
+}
+.primul-text {
+  text-align: center;
+}
+.ren1 {
+  width: 33%
+}
+.ren2 {
+  width: 33%;
+  left: 480px;
+}
+.ren3 {
+  width: 33%;
+
+  left:960px;
+}
